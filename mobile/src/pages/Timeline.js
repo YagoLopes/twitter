@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import socket from "socket.io-client";
-import api from "../services/api";
+import { api, io } from "../services/api";
 
 import { View, FlatList, StyleSheet, TouchableOpacity } from "react-native";
 
@@ -36,8 +35,6 @@ export default class Timeline extends Component {
   }
 
   subscribeToEvents = () => {
-    const io = socket("http://localhost:3000");
-
     io.on("tweet", data => {
       this.setState({ tweets: [data, ...this.state.tweets] });
     });

@@ -1,7 +1,6 @@
 import axios from "axios";
+import socket from "socket.io-client";
+const baseURL = "http://localhost:4000";
+export const api = axios.create({ baseURL });
 
-const api = axios.create({
-  baseURL: "http://localhost:3000"
-});
-
-export default api;
+export const io = socket(baseURL);
