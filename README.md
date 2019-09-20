@@ -41,7 +41,7 @@ It's free!
 ```
 $ git clone https://github.com/YagoLopes/twitter
 
-$ cd jshunt
+$ cd twitter
 ```
 
 **Installing dependencies**
