@@ -2,11 +2,11 @@
 
 - Login
 
-![Preview-Screens](https://github.com/YagoLopes/jshunt/blob/master/doc/assets/img/twitter-login.png)
+![Preview-Screens](https://github.com/YagoLopes/twitter/blob/master/doc/assets/img/twitter-login.png)
 
 - Feed
 
-![Preview-Screens](https://github.com/YagoLopes/jshunt/blob/master/doc/assets/img/twitter-feed.png)
+![Preview-Screens](https://github.com/YagoLopes/twitter/blob/master/doc/assets/img/twitter-feed.png)
 
 If you want to take a look on all screens of the App, they are [here](https://feryq.csb.app/).
 
