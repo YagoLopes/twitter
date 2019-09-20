@@ -8,7 +8,7 @@
 
 ![Preview-Screens](https://github.com/YagoLopes/twitter/blob/master/doc/assets/img/twitter-feed.png)
 
-If you want to take a look on all screens of the App, they are [here](https://feryq.csb.app/).
+If you want to take a look on all screens of the App, they are [here](https://5tbsz.csb.app/).
 
 ## About this Project
 
